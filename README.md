@@ -1,10 +1,9 @@
 #Boilerplate
-It's easy Gulp+Pug+SASS boilerplate
+It's easy Gulp+SASS boilerplate
 
 ##Quick start
 
 * Install dev-dependencies `npm i`
-* Install dependencies `bower i`
 * Launch `gulp` to run watchers, server and compilers
 * Launch `gulp production` to minify files for production
 
